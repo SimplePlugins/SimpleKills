@@ -1,0 +1,7 @@
+name: ${project.name}
+version: ${project.version}
+description: ${project.description}
+authors: [JustMatt <matt@matthogan.co.uk>, SimplePlugins <github.com/SimplePlugins>]
+website: ${project.url}
+
+main: ${project.groupId}.${project.artifactId}.${project.name}Plugin

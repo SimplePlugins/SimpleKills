@@ -1,0 +1,5 @@
+# SimplePlugins - SimpleKills
+run-commands:
+  - say %attacker% killed %victim%
+  - eco give %attacker% 1
+  - say %victim% is a l0z3r
